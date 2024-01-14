@@ -4,6 +4,14 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1, Kurdsat
 https://gineu10.bozztv.com/gin-36bay2/gin-kurdsat/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDI0IDk6NDY6MTMgUE0maGFzaF92YWx1ZT1BbGk1b3I1YjQ3cExCSTc5dmRUU2FnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 #EXTINF:-1, Kurdmax
-https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/playlist.m3u8 
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
 #EXTINF:-1, Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1, NRT
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1, Kurdistan24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1, Al Jazeera
+https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1, Al Arabia Al Hadath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
